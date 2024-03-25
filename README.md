@@ -124,7 +124,7 @@ This work is supported by SJTU-QI'ANXIN Joint Lab of Information System Security
 @inproceedings{
     anonymous2024annet,
     title={AN-Net: An Anti-Noise Network For Anonymous Traffic Classification},
-    author={Anonymous},
+    author={Deng, Xianwen and Wang, Yijun and Xue, Zhi},
     booktitle={The Web Conference 2024},
     year={2024}
 }
